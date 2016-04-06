@@ -1,0 +1,99 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc01               { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #606060;
+	}
+.cc02               { /* Common */
+	font            : 8pt 'Arial', Helvetica, sans-serif;
+	color           : #404040;
+	}
+.cc03               { /* Common */
+	font            : bold 18pt 'Arial', Helvetica, sans-serif;
+	color           : #ffffff;
+	}
+.cc04               { /* Common */
+	font            : italic 34pt 'Georgia', Times, Book, serif;
+	color           : #ffffff;
+	}
+.cc05               { /* Common */
+	font            : italic bold 12pt 'Arial', Helvetica, sans-serif;
+	color           : #ffffff;
+	}
+div#e8              { /* About me\ \&nbsp;\ \Give... */
+	position        : absolute;
+	left            :  45.00pt;
+	top             : 404.25pt;
+	width           : 417.00pt;
+	height          :  45.00pt;
+	}
+div#e7              { /* © 2013 ListBuyDomains.co... */
+	position        : absolute;
+	left            :  45.00pt;
+	top             : 697.50pt;
+	width           : 183.00pt;
+	height          :  12.75pt;
+	}
+span#e6             { /* surfer.jpg */
+	background      : transparent url(surfer.jpg) no-repeat top left;
+	position        : absolute;
+	left            :   0.00pt;
+	top             : 134.25pt;
+	width           : 720.00pt;
+	height          : 225.00pt;
+	}
+span#e5             { /* bar.png */
+	background      : transparent url(bar.png) no-repeat top left;
+	position        : absolute;
+	left            :   0.00pt;
+	top             : 318.00pt;
+	width           : 720.00pt;
+	height          :  41.25pt;
+	}
+h1#e4               { /* From Domainer For Domain... */
+	position        : absolute;
+	left            :  45.00pt;
+	top             : 327.00pt;
+	width           : 286.50pt;
+	height          :  47.25pt;
+	}
+div#e3              { /* Surfs Up! */
+	position        : absolute;
+	left            :  48.00pt;
+	top             :  30.00pt;
+	width           : 197.25pt;
+	height          :  42.75pt;
+	}
+div#e2              { /* A website about surfing */
+	position        : absolute;
+	left            : 117.00pt;
+	top             :  73.50pt;
+	width           : 140.25pt;
+	height          :  17.25pt;
+	}
+div#e1              { /* List Buy Domains\ */
+	background      : transparent url(listbuy001001.png) no-repeat top left;
+	position        : absolute;
+	left            :  43.50pt;
+	top             :  66.00pt;
+	width           : 138.00pt;
+	height          :  30.00pt;
+	}
+div#page            { /* Page Holder */
+	background-color: transparent;
+	position        : relative;
+	width           : 720.00pt;
+	height          : 750.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffffff;
+	text-align      : center;
+	}
+
+
+
+/*--- EndOfFile ---*/

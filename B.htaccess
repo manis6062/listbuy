@@ -1,0 +1,8 @@
+Options +FollowSymLinks
+RewriteEngine on
+
+RewriteBase /
+
+RewriteRule ^([0-9]+)-(.*)\.html$ details.php?tit=$1
+RewriteRule ^Category-(.*)-([0-9]+)\.html$ search.php?cat_id=$2
+

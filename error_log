@@ -1,0 +1,29 @@
+[30-Sep-2013 18:36:39 UTC] PHP Fatal error:  Call to undefined function imagecreatefromjpeg() in /home/waytobay/public_html/website/1/image_code.php on line 6
+[01-Oct-2013 12:28:11 America/Denver] PHP Fatal error:  <br>The encoded file <b>/home/listbuy/public_html/footer.php</b> is corrupt. in Unknown on line 0
+[05-Oct-2013 11:00:05 America/Denver] PHP Parse error:  syntax error, unexpected '=', expecting T_STRING in /home/listbuy/public_html/index.php on line 117
+[05-Oct-2013 11:00:18 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home/listbuy/public_html/index.php on line 156
+[05-Oct-2013 11:47:36 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home/listbuy/public_html/index.php on line 81
+[05-Oct-2013 11:48:09 America/Denver] PHP Parse error:  syntax error, unexpected T_ELSE in /home/listbuy/public_html/index.php on line 81
+[05-Oct-2013 11:48:34 America/Denver] PHP Parse error:  syntax error, unexpected T_ELSE in /home/listbuy/public_html/index.php on line 81
+[05-Oct-2013 11:48:43 America/Denver] PHP Parse error:  syntax error, unexpected T_ELSE in /home/listbuy/public_html/index.php on line 81
+[05-Oct-2013 11:48:59 America/Denver] PHP Parse error:  syntax error, unexpected T_ELSE in /home/listbuy/public_html/index.php on line 81
+[06-Oct-2013 02:06:29 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home/listbuy/public_html/newlisting.php on line 612
+[06-Oct-2013 02:07:18 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home/listbuy/public_html/newlisting.php on line 585
+[06-Oct-2013 02:39:24 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home/listbuy/public_html/newlisting.php on line 614
+[11-Oct-2013 18:47:42 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home/listbuy/public_html/edit-profile.php on line 254
+[19-Oct-2013 11:15:05 America/Denver] PHP Fatal error:  Function name must be a string in /home/listbuy/public_html/1.php on line 5
+[12-Dec-2013 19:14:30 UTC] PHP Parse error:  syntax error, unexpected ')', expecting T_PAAMAYIM_NEKUDOTAYIM in /home/listbuy/public_html/asrch.php on line 302
+[12-Dec-2013 19:15:25 UTC] PHP Parse error:  syntax error, unexpected ')', expecting T_PAAMAYIM_NEKUDOTAYIM in /home/listbuy/public_html/asrch.php on line 303
+[12-Dec-2013 19:16:43 UTC] PHP Parse error:  syntax error, unexpected ')', expecting T_PAAMAYIM_NEKUDOTAYIM in /home/listbuy/public_html/asrch.php on line 303
+[17-Jun-2014 22:22:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/listbuy/public_html/edit-profile.php on line 254
+[05-Oct-2014 20:28:23 UTC] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/listbuy/public_html/config/config.php on line 39
+[05-Oct-2014 20:28:23 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/listbuy/public_html/config/config.php on line 44
+[05-Oct-2014 20:28:23 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/listbuy/public_html/config/function.php on line 25
+[05-Oct-2014 20:28:23 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/listbuy/public_html/config/function.php on line 25
+[11-Feb-2016 15:27:06 UTC] PHP Parse error:  syntax error, unexpected '.1' (T_DNUMBER) in /home/listbuy/public_html/details.php on line 5
+[11-Feb-2016 15:46:55 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/listbuy/public_html/details.php on line 16
+[11-Feb-2016 15:48:00 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/listbuy/public_html/details.php on line 16
+[18-Feb-2016 17:10:50 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/listbuy/public_html/index.php on line 54
+[18-Feb-2016 17:52:18 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/listbuy/public_html/index.php on line 42
+[20-Feb-2016 16:47:21 UTC] PHP Parse error:  syntax error, unexpected 'to' (T_STRING), expecting ',' or ';' in /home/listbuy/public_html/how-itworks.php on line 7
+[21-Feb-2016 18:52:22 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/listbuy/public_html/index.php on line 163

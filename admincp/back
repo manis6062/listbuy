@@ -1,0 +1,37 @@
+<?
+
+error_reporting(0);
+set_time_limit(0);
+session_start();
+if(!isset($_SESSION['username']))
+{
+header("location:index.php");
+}
+
+$username = 'listbuy_srch';
+$password = 'Kandia2013';
+$hostname = 'localhost';
+$database = 'listbuy_srch';
+
+try {
+	$pdo = new PDO("mysql:host={$hostname};dbname={$database}", $username, $password);
+}
+catch(PDOException $e) {
+	die("Could not connect to the database\n");
+}
+
+$temp.= '<pre>';
+$stmt1 = $pdo->query('SHOW TABLES', PDO::FETCH_NUM);
+foreach($stmt1->fetchAll() as $row) {
+	$stmt2 = $pdo->query("SHOW CREATE TABLE `$row[0]`", PDO::FETCH_ASSOC);
+	$table = $stmt2->fetch();
+	$temp1.= "{$table['Create Table']};\n\n";
+}
+$temp.= '</pre>';
+
+header("Content-type: text/plain");
+header("Content-Disposition: attachment;Filename=db.sql");
+
+echo $temp1;
+
+?>

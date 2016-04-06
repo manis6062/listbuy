@@ -1,0 +1,255 @@
+body {
+	background-color: #ffffff;
+	font-family:  Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #3c3b36;
+	margin-left:0px;
+	margin-right:0px;
+	margin-top:0px;
+	margin-bottom:10px;
+	}
+.header{
+background:url(../images/6.png) no-repeat;
+background-color:#000000;
+}
+
+
+.tophead{
+background:url(../images/3.png) no-repeat;
+height:50px;
+
+}
+.bodyarea{
+	padding-top:20px;
+	padding-left:10px;
+}
+
+.tophead1{
+background:url(../images/4.png) no-repeat;
+}
+
+.tblbody{
+background:url(../images/1.png) no-repeat;
+width:600px;
+height:377px;
+}
+.tblbody1{
+background:url(../images/2.png) no-repeat;
+height:155px;
+}
+.texttitle{
+font-family:Arial, Helvetica, sans-serif;
+font-weight:bolder;
+font-size:20px;
+color:#000066;
+}
+
+.texttitle2{
+font-family:Arial, Helvetica, sans-serif;
+font-weight:lighter;
+font-size:12px;
+font-weight:bold;
+color:#000066;
+}
+.headertitle{
+font-family:Arial, Helvetica, sans-serif;
+font-weight:normal;
+font-size:12px;
+color:#ffffff;
+}
+
+.loginbttn{
+background:url(../images/login.png) no-repeat;
+height:31px;
+width:92px;
+border:0px;
+font-family:Arial, Helvetica, sans-serif;
+font-size:12px;
+font-weight:600;
+color:#000000;
+padding-right:25px;
+}
+.publishbttn
+{
+background:url(../images/published.png) no-repeat;
+width:31px;
+height:27px;
+border:0px;
+}
+.unpublishbttn
+{
+background:url(../images/unpublished.png) no-repeat;
+width:31px;
+height:27px;
+border:0px;
+}
+.deletebttn
+{
+background:url(../images/remove.png) no-repeat;
+width:25px;
+height:31px;
+border:0px;
+}
+.delallbttn{
+background:url(../images/remove.png) no-repeat;
+width:25px;
+height:31px;
+border:0px;
+}
+
+.genreportbtn{
+background:url(../images/cmspage.png) no-repeat;
+width:48px;
+height:48px;
+border:0px;
+}
+.mailbttn
+{
+background:url(../images/icon-48-massmail.png) no-repeat;
+width:48px;
+height:48px;
+border:0px;
+}
+
+.bttn{
+background:url(../images/bttn.png) no-repeat;
+height:31px;
+width:92px;
+border:0px;
+font-family:Arial, Helvetica, sans-serif;
+font-size:11px;
+font-weight:600;
+color:#000000;
+padding-right:20px;
+padding-bottom:10px;
+}
+
+
+.trbg{
+background: #CCCCCC;
+font-weight:bold;
+font-family:Arial, Helvetica, sans-serif;
+height:30px;
+}
+
+.sitesettings
+{
+padding-left:20px; padding-top:5px; background-color: #EEEEEE;
+}
+.seosettings
+{
+padding-left:20px; padding-top:10px; background-color: #E9E9E9;
+}
+
+.trhead
+{
+font-family:  Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #3399FF;
+	font-weight:bold
+}
+
+.fieldset
+{
+font-family:  Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #FF9933;
+	font-weight:bold
+}
+
+.btn {
+	BORDER-RIGHT: #9cc8e0 1px solid; PADDING-RIGHT: 5px; BORDER-TOP: #9cc8e0 1px solid; PADDING-LEFT: 5px; FONT-WEIGHT: normal; FONT-SIZE: 1.1em; PADDING-BOTTOM: 1px; BORDER-LEFT: #9cc8e0 1px solid; CURSOR: pointer; COLOR: #4d4d4d; PADDING-TOP: 1px; BORDER-BOTTOM: #9cc8e0 1px solid; BACKGROUND-COLOR: #F2E3B5;
+}
+
+.trbg
+{
+background-color: #E4E8E9;
+}
+.tblborder
+{
+border: 1px solid;
+border-color: #F4F3DF;
+font-family:Arial, Helvetica, sans-serif;
+color: #3366CC;
+font-weight:bold;
+padding-top:10px;
+padding-bottom:10px;
+font-size:12px;
+
+background-color: #fbfbfb;
+}
+
+.tblborder1
+{
+border: 1px solid;
+border-color: #F0F0F0;
+font-family: Verdana, Arial, Helvetica, sans-serif;
+color: #000000;
+font-weight:normal;
+padding-top:2px;
+padding-bottom:2px;
+}
+.welcome
+{
+font-family:Georgia, "Times New Roman", Times, serif;
+color:#993300;
+font-weight:bold;
+font-size:18px;
+}
+.footer{
+
+background-color:#CCCCCC;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:10px;
+}
+.divscr{
+font-family:Georgia, "Times New Roman", Times, serif;
+font-size:12px;
+color:#333399;
+overflow:scroll;
+width:400px;
+height:300px;
+}
+.input
+{
+background-color:#FBFBFB;
+border:1px solid;
+}
+.require{
+font-family:Arial, Helvetica, sans-serif;
+font-size:9;
+color:#FF0000;
+}
+.error
+{font-family:"Arial Unicode MS"; font-size:16px; color:#FF0000;}
+
+.onmouse:hover{
+padding-left:5px;
+background:#FFFFCC;
+padding-right:5px;
+}
+.label{
+font-family:Arial, Helvetica, sans-serif;
+font-size:16px;
+color:#000000;
+font-weight:bold;
+}
+.txt1{
+font-size:14px;
+font-weight:600;
+color:#000000;
+}
+.submitbutton
+{
+background:url(../images/1234/save.png) no-repeat;
+width:31px;
+height:27px;
+border:0px;
+}
+
+.small_font
+{
+font-family:Arial, Helvetica, sans-serif;
+font-size:10px;
+color:#000000;
+}
