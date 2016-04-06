@@ -30,9 +30,9 @@
 	{
 	#DATABASE CONNECTION VARIABLE FOR HOST SERVER
 	define(DATABASE_SERVER,"localhost");
-	define(DATABASE_USERNAME,"listbuy_srch");
-	define(DATABASE_PASSWORD,"Kandia2013");
-	define(DATABASE_NAME,"listbuy_srch");
+	define(DATABASE_USERNAME,"USERNAME");
+	define(DATABASE_PASSWORD,"PASSWORD");
+	define(DATABASE_NAME,"listbuy");
 	$GLOBALS['HOST']="http://www.listbuydomains.com/";
 	}
 	
